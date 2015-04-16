@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.55,44.22,
+          -70.54,44.21
+        ]
+      },
+      "properties": {
+        "marker-symbol": "garden",
+        "name": "Alan Day Community Garden",
+        "address": "26 Whitman Street, Norway, Maine 04268"
+      }
+    } 
+  ]
+}
+
